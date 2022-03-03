@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Ultra/static/css/main.6b6b398b.css",
+    "main.js": "/React_Ultra/static/js/main.1f36e70f.js",
+    "index.html": "/React_Ultra/index.html",
+    "main.6b6b398b.css.map": "/React_Ultra/static/css/main.6b6b398b.css.map",
+    "main.1f36e70f.js.map": "/React_Ultra/static/js/main.1f36e70f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b6b398b.css",
+    "static/js/main.1f36e70f.js"
+  ]
+}
